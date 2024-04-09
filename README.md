@@ -1,0 +1,1 @@
+# eclipse-yaml-editor-plugin
